@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+main{
+    background-color: aqua;
+}
+
+header{
+    background-color: lawngreen;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 150px;
+    z-index:3 ;
+}
+
+a{
+    text-decoration: none;
+    margin:;
+}
+
